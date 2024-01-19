@@ -1,0 +1,7 @@
+#number, #question, #answer {
+    margin:18px;
+    font-size:36px;
+}
+#answer {
+    color: blue;
+}
